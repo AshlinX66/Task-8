@@ -1,0 +1,101 @@
+Order Date,Region,Category,Sales,Profit
+2023-08-27,West,Technology,1224.11,-121.99
+2023-11-20,Central,Office Supplies,497.3,144.9
+2023-08-11,West,Office Supplies,2374.34,66.95
+2023-01-20,Central,Furniture,1101.38,111.68
+2023-12-15,Central,Office Supplies,4540.81,66.68
+2023-03-12,West,Technology,2123.78,-376.78
+2023-09-22,South,Technology,1207.32,-224.39
+2023-12-07,South,Furniture,4460.25,-364.63
+2023-11-25,South,Furniture,1733.0,221.97
+2023-06-04,Central,Technology,1476.1,418.39
+2023-06-20,South,Technology,4447.17,-441.94
+2023-01-09,East,Office Supplies,578.62,-20.69
+2023-04-25,Central,Office Supplies,1188.43,-180.45
+2023-09-13,West,Furniture,266.65,-26.13
+2023-02-22,East,Furniture,3062.82,528.41
+2023-01-13,West,Technology,325.02,-31.48
+2023-02-28,East,Office Supplies,1167.11,173.52
+2023-08-22,South,Technology,3874.84,578.99
+2023-04-03,West,Technology,2518.95,-304.25
+2023-07-04,South,Technology,3968.23,379.59
+2023-10-12,West,Furniture,1483.35,241.82
+2023-06-23,Central,Furniture,3896.73,388.04
+2023-04-04,West,Office Supplies,3356.55,429.85
+2023-09-23,South,Furniture,186.68,11.09
+2023-11-17,South,Office Supplies,4727.8,816.9
+2023-12-29,South,Office Supplies,4024.59,447.35
+2023-10-11,East,Technology,3629.58,230.48
+2023-03-04,Central,Technology,2736.75,-528.16
+2023-01-30,East,Office Supplies,4406.46,1076.26
+2023-10-13,West,Technology,1935.83,279.33
+2023-04-28,West,Furniture,4971.8,-260.55
+2023-09-16,South,Office Supplies,581.36,-57.47
+2023-01-27,West,Technology,1327.31,-68.88
+2023-08-09,Central,Furniture,3555.43,402.92
+2023-12-27,West,Office Supplies,3632.51,-520.53
+2023-05-01,South,Office Supplies,3656.04,766.75
+2023-05-24,West,Furniture,1074.9,260.8
+2023-07-18,West,Furniture,4468.57,554.42
+2023-10-20,Central,Furniture,579.5,-14.12
+2023-01-25,West,Technology,4248.24,321.18
+2023-06-22,East,Office Supplies,3140.73,-394.95
+2023-07-13,West,Office Supplies,639.28,-71.16
+2023-10-10,East,Furniture,656.2,57.98
+2023-11-21,West,Furniture,1000.77,82.74
+2023-02-16,Central,Technology,4707.01,-595.92
+2023-10-01,Central,Technology,3794.69,647.29
+2023-05-28,South,Office Supplies,614.22,136.01
+2023-07-11,West,Furniture,1479.19,176.54
+2023-01-25,South,Technology,4729.67,541.86
+2023-12-03,Central,Technology,4048.24,1129.4
+2023-04-09,Central,Furniture,2071.57,8.19
+2023-08-17,Central,Technology,2983.97,-418.86
+2023-10-05,West,Technology,3398.18,-565.73
+2023-08-22,East,Technology,520.47,-2.7
+2023-04-27,Central,Technology,199.45,10.49
+2023-06-17,West,Office Supplies,1612.27,-308.37
+2023-07-31,South,Technology,4390.93,756.57
+2023-11-22,West,Technology,122.54,23.51
+2023-01-25,South,Furniture,2769.75,-365.44
+2023-09-05,West,Technology,1917.69,-262.63
+2023-01-29,West,Office Supplies,4134.47,-825.08
+2023-08-09,Central,Office Supplies,482.24,65.0
+2023-04-15,East,Furniture,2624.19,-451.68
+2023-10-15,South,Furniture,1716.04,321.46
+2023-08-01,South,Furniture,870.24,-76.81
+2023-07-25,West,Furniture,1111.07,61.65
+2023-03-13,East,Technology,4685.6,-444.1
+2023-12-22,East,Office Supplies,4506.03,-25.7
+2023-11-03,West,Office Supplies,1866.4,415.36
+2023-05-07,South,Technology,1542.34,-111.89
+2023-01-08,West,Furniture,917.57,95.8
+2023-09-13,East,Furniture,4809.84,163.56
+2023-11-03,East,Office Supplies,1210.74,234.39
+2023-03-30,West,Technology,4478.74,-304.11
+2023-08-18,East,Technology,3859.89,92.95
+2023-03-24,Central,Technology,2522.15,262.05
+2023-06-22,East,Office Supplies,1547.86,-52.36
+2023-08-21,East,Office Supplies,3284.5,-478.56
+2023-06-06,West,Technology,3923.45,813.89
+2023-03-08,Central,Furniture,3119.6,-267.23
+2023-01-09,South,Office Supplies,3114.34,-595.5
+2023-04-30,West,Technology,2312.55,-289.36
+2023-11-21,West,Technology,756.53,19.54
+2023-05-13,East,Furniture,2429.64,-85.34
+2023-10-29,East,Office Supplies,998.73,295.99
+2023-03-01,South,Office Supplies,2843.79,-535.39
+2023-02-16,South,Office Supplies,977.23,-175.11
+2023-09-02,South,Office Supplies,2933.41,20.01
+2023-05-18,South,Furniture,4116.77,526.07
+2023-03-29,Central,Technology,1764.11,116.0
+2023-11-08,South,Technology,768.51,138.89
+2023-09-29,Central,Technology,1646.8,-172.14
+2023-11-30,West,Technology,3603.78,-30.88
+2023-12-08,East,Office Supplies,473.85,139.31
+2023-11-27,East,Technology,3859.84,-227.27
+2023-03-09,Central,Technology,4429.33,990.54
+2023-09-13,East,Technology,1032.35,298.5
+2023-08-02,South,Technology,3021.68,644.21
+2023-02-24,Central,Office Supplies,3476.14,429.38
+2023-10-24,Central,Office Supplies,3047.69,-486.08
